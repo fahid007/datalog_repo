@@ -1,0 +1,2 @@
+Testflow,Test Suite,Test Method,Test,Test#,Pattern,Wafer,Site,Pin,Device,Device ID,Part ID,Part Txt,Lower,LS,Value,Unit,US,Upper,P/F,Time,TS Time,Print To Data Log,Test Text
+1,"eFUSE_burn_readmargin","","BANKB_BIT_BLOWN_TRUE_47",432880,"",0,1,"OFF_PS1600",1,"1","","",1,"<=",0,"","<=",1,"F",202.779,***,"",
