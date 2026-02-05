@@ -1,0 +1,5 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"1","",1,91.9,57,91.9,1,0
+"6","FAIL_TRIM",1,3.2,2,3.2,1,0
+"5","LEAKAGE_FAILED",1,3.2,2,3.2,1,0
+"18","POST_EFUSE",1,1.6,1,1.6,1,0

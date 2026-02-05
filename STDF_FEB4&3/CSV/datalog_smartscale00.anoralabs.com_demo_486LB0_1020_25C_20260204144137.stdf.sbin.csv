@@ -1,0 +1,6 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"6","FAIL_TRIM",1,55.6,10,55.6,1,0
+"18","POST_EFUSE",1,5.6,1,5.6,1,0
+"1","",1,27.8,5,27.8,1,0
+"5","LEAKAGE_FAILED",1,5.6,1,5.6,1,0
+"3","CONTINUITY_FAIL",1,5.6,1,5.6,1,0

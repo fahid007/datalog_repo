@@ -1,0 +1,3 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"8","VDD_UVLO_OTS_POR_FAILED",1,50,1,50,1,0
+"3","CONTINUITY_FAIL",1,50,1,50,1,0

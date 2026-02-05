@@ -1,0 +1,4 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"1","",1,54.5,6,54.5,1,0
+"8","VDD_UVLO_OTS_POR_FAILED",1,9.1,1,9.1,1,0
+"18","POST_EFUSE",1,36.4,4,36.4,1,0
