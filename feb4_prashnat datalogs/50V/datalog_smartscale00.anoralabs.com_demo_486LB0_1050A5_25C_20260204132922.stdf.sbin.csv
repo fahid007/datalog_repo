@@ -1,0 +1,6 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"1","",1,72.2,26,72.2,1,0
+"6","FAIL_TRIM",1,5.6,2,5.6,1,0
+"7","THRESHOLD_FAILED",1,11.1,4,11.1,1,0
+"8","VDD_UVLO_OTS_POR_FAILED",1,5.6,2,5.6,1,0
+"3","CONTINUITY_FAIL",1,5.6,2,5.6,1,0
