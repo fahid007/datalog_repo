@@ -1,0 +1,4 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"16","FAIL_OUTPUT_CHARACTERISTICS_TEST",1,60,3,60,1,0
+"18","POST_EFUSE",1,20,1,20,1,0
+"6","FAIL_TRIM",1,20,1,20,1,0
