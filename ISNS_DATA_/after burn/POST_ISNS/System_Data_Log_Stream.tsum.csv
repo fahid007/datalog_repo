@@ -1,0 +1,3 @@
+Test Suite,Test,Test#,Type,Pattern,Lower,Upper,Unit,Min,Max,Mean,Sdev,Pass#,Fail#,Time,TS Time
+"Post_ISENSE_Gain","POST_SNS_GAIN_25PIMAX_CODE",820040,"Parametric","_rdi_burst_Post_ISENSE_Gain_bk1_mp",-260,-190,"uA",-246.795,-246.795,-246.795,0,1,0,97.063,129.334
+"Post_ISENSE_Gain","gain",820050,"Parametric","_rdi_burst_Post_ISENSE_Gain_bk1_mp",3700,4300,"GAIN",4051.95,4051.95,4051.95,0,1,0,0.032,129.334
