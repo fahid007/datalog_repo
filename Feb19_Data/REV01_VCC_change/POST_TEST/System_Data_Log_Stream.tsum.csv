@@ -1,0 +1,19 @@
+Test Suite,Test,Test#,Type,Pattern,Lower,Upper,Unit,Min,Max,Mean,Sdev,Pass#,Fail#,Time,TS Time
+"Post_Vbias_Test","GENERAL TEST",510001,"Parametric","",1.75,1.85,"V",1.81123,1.81123,1.81123,0,1,0,98.924,103.561
+"Post_SS_Test","ISS_0p4V",500010,"Parametric","",-10.7,-9.3,"uA",-10.855,-10.855,-10.855,0,0,1,904.517,908.631
+"Post_SS_Test","SS_gain_0p4V",500020,"Parametric","",9.6,10.4,"A/V",4.87506,4.87506,4.87506,0,0,1,0.014,908.631
+"Post_SS_Test","Vin_vout_Current",500030,"Parametric","",3.5,4.5,"A",1.95002,1.95002,1.95002,0,0,1,0.047,908.631
+"Post_SS_Gain_Test","POST_CURRENT_SS_0P1V",820010,"Parametric","",350,1100,"mA",462.629,462.629,462.629,0,1,0,951.197,956.654
+"Post_SS_Gain_Test","POST_CURRENT_SS_0P2V",820020,"Parametric","",1800,2200,"mA",946.111,946.111,946.111,0,0,1,0.01,956.654
+"Post_SS_Gain_Test","POST_CURRENT_SS_Delta",820030,"Parametric","",920,1080,"mA",483.481,483.481,483.481,0,0,1,0.031,956.654
+"Post_ILIM_Test","ITRIP_10p_Current",810010,"Parametric","",-11,-9,"uA",-16.041,-16.041,-16.041,0,0,1,8650.16,8654.56
+"Post_ILIM_Test","ITRIP_10p_Voltage",810020,"Parametric","",0.9,1.2,"V",1.01,1.01,1.01,0,1,0,0.011,8654.56
+"Post_ILIM_Test","ITRIP_20p_Current",810060,"Parametric","",-22,-18,"uA",-31.572,-31.572,-31.572,0,0,1,0.03,8654.56
+"Post_ILIM_Test","ITRIP_20p_Voltage",810070,"Parametric","",0.9,1.2,"V",1.01,1.01,1.01,0,1,0,0.161,8654.56
+"Post_ILIM_Test","gain_20V_Part",810050,"Parametric","",70000,85000,"GAIN",49872.2,49872.2,49872.2,0,0,1,0.008,8654.56
+"Post_ILIM_Test","gain_20p_20V_Part",810100,"Parametric","",75000,85000,"GAIN",50677.8,50677.8,50677.8,0,0,1,0.022,8654.56
+"Post_ISENSE_Gain","POST_SNS_GAIN_20PIMAX_CODE",820040,"Parametric","",-210,-190,"uA",-260.971,-260.971,-260.971,0,0,1,87.384,91.277
+"Post_ISENSE_Gain","gain",820050,"Parametric","",7700,8300,"GAIN",6130.95,6130.95,6130.95,0,0,1,0.011,91.277
+"ILIM_Slowtrip","ITRIP_VOLTAGE_ILIM_TM_011",830010,"Parametric","",0.95,1.15,"V",1.00936,1.00936,1.00936,0,1,0,1181.96,1185.6
+"ILIM_Slowtrip","ITRIP_VOLTAGE_ILIM_TM_111",830020,"Parametric","",0.95,1.15,"V",1.00936,1.00936,1.00936,0,1,0,0.014,1185.6
+"TISLOW","TISLOW",840010,"Parametric","",9.6,13.4,"mS",0.4,0.4,0.4,0,0,1,158.874,163.094
