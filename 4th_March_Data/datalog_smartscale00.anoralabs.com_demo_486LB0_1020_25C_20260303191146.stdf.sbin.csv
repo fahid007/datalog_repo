@@ -1,0 +1,9 @@
+SW Bin,Desc,Device#,Bin%,Good Bin,Reprobe Bin
+"1","",57,59.4,1,0
+"11","OVST_FAILED",9,9.4,1,0
+"18","POST_EFUSE",16,16.7,1,0
+"5","LEAKAGE_FAILED",3,3.1,1,0
+"15","FAIL_TJRESHOLD_TEST",5,5.2,1,0
+"9","SCAN_FAIL",1,1,1,0
+"6","FAIL_TRIM",1,1,1,0
+"3","CONTINUITY_FAIL",4,4.2,1,0
