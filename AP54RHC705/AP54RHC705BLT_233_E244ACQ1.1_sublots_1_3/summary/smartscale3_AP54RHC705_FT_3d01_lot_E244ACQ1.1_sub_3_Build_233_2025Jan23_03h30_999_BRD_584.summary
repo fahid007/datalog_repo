@@ -1,0 +1,126 @@
+
+TEMP_B    :  277.39
+TEMP_B_OFFSET:  0
+TEMP_M    :  838.38
+Lot_id    :  E244ACQ1.1
+SubLot_id :  3
+Build_Num :  233
+Operator_id:  BD
+Temperature:  999
+DUT_board_id:  584
+Test_group:  PROD
+HOST      :  smartscale3
+HOME      :  /local/home/operator
+Test_description:  AP54RHC705_FT_TEST
+Test_version:  3d01
+Device_name:  AP54RHC705
+Device_revision:  FT
+Test_program:  AP54RHC705_FT_manual.prog on device /home/release/smartscale3/apogee/LOGIC_PRODUCTS/AP54RHC705_RELEASE_20241112/LOGIC_Project/ALL_VARIANTS
+Start_time:  20250123_033033
+Application_Model:  da_ft_application_man_v4_STDF_EDF_GDF_SUM_PER_LOT.txt
+TIMESTAMP :  2025Jan23_03h30
+STDF_FILE :  /local/home/operator/datalog/stdf/smartscale3_AP54RHC705_FT_3d01_lot_E244ACQ1.1_sub_3_Build_233_2025Jan23_03h30_999_BRD_584.stdf
+STDF_SUMMARY_FILE:  /local/home/operator/datalog/stdf/smartscale3_AP54RHC705_FT_3d01_lot_E244ACQ1.1_sub_3_Build_233_2025Jan23_03h30_999_BRD_584.stdf.summary
+LOT_SUMMARY_PATH_NAME:  /local/home/operator/datalog/summary/smartscale3_AP54RHC705_FT_3d01_lot_E244ACQ1.1_sub_3_Build_233_2025Jan23_03h30_999_BRD_584.summary
+edf_file  :  /local/home/operator/datalog/edf/smartscale3_AP54RHC705_FT_3d01_lot_E244ACQ1.1_sub_3_Build_233_2025Jan23_03h30_999_BRD_584.edf
+OPER_NAME :  BD
+LOT_ID    :  E244ACQ1.1
+SBLOT_ID  :  3
+PART_TYPE :  AP54RHC705
+TEST_TEMP :  999
+PROD_FAMILY:  AP54RHC705
+DESIGN_REV:  FT
+DIB_ID    :  584
+ENABLE_LOT_SUMMARY_GENERATOR:  1
+
+Binlist:init
+Bin:   1         no_reprobe  1      PASS   PASS
+Bin:   10        no_reprobe  3      FAIL   T_PROP
+Bin:   11        no_reprobe  2      FAIL   T_EN
+Bin:   12        no_reprobe  2      FAIL   T_DIS
+Bin:   13        no_reprobe  4      FAIL   OVST
+Bin:   14        no_reprobe  2      FAIL   T_PD_CLR
+Bin:   15        no_reprobe  2      FAIL   T_RF
+Bin:   16        no_reprobe  2      FAIL   T_SU
+Bin:   17        no_reprobe  2      FAIL   T_H
+Bin:   18        no_reprobe  2      FAIL   TPW_CLK
+Bin:   19        no_reprobe  2      FAIL   TPW_CLR
+Bin:   2         no_reprobe  3      FAIL   FUNC
+Bin:   20        no_reprobe  2      FAIL   TP_CLR_REC
+Bin:   21        no_reprobe  2      FAIL   OVST
+Bin:   3         no_reprobe  3      FAIL   SHORTS
+Bin:   4         no_reprobe  3      FAIL   PSHORTS
+Bin:   5         no_reprobe  2      FAIL   OPENS
+Bin:   6         no_reprobe  3      FAIL   IDDS
+Bin:   7         no_reprobe  3      FAIL   VILH
+Bin:   8         no_reprobe  3      FAIL   VOL_VOH
+Bin:   9         no_reprobe  3      FAIL   LEAKAGE
+Bin:   97        no_reprobe  2      FAIL   HANDLER_OCR_ERROR
+Bin:   98        no_reprobe  2      FAIL   ERROR
+Bin:   99        no_reprobe  2      FAIL   Temp
+Bin:   db        no_reprobe  -1     FAIL   
+
+Data_format: Pkg_id  SW_Bin  HW_Bin  P_F  Date  Time  Temp  FF/TF/TT  Site  Bin_desc
+Begin_data:
+
+1	1	1	PASS	20250123 033352	999	0/0/113	1	PASS	
+2	9	3	FAIL	20250123 033515	999	29/1/113	1	LEAKAGE	
+  Begin_data_overon:
+    2	1	1	PASS	20250123 033723	999	29/1/113	1	PASS	
+  End_data_overon
+3	1	1	PASS	20250123 034017	999	0/0/113	1	PASS	
+4	1	1	PASS	20250123 034551	999	0/0/113	1	PASS	
+5	1	1	PASS	20250123 034916	999	0/0/113	1	PASS	
+6	1	1	PASS	20250123 035222	999	0/0/113	1	PASS	
+7	1	1	PASS	20250123 035536	999	0/0/113	1	PASS	
+8	1	1	PASS	20250123 035849	999	0/0/113	1	PASS	
+9	1	1	PASS	20250123 040157	999	0/0/113	1	PASS	
+10	1	1	PASS	20250123 040502	999	0/0/113	1	PASS	
+11	1	1	PASS	20250123 040813	999	0/0/113	1	PASS	
+12	1	1	PASS	20250123 041104	999	0/0/113	1	PASS	
+13	1	1	PASS	20250123 041358	999	0/0/113	1	PASS	
+14	1	1	PASS	20250123 041726	999	0/0/113	1	PASS	
+15	1	1	PASS	20250123 042028	999	0/0/113	1	PASS	
+16	1	1	PASS	20250123 042341	999	0/0/113	1	PASS	
+17	1	1	PASS	20250123 042649	999	0/0/113	1	PASS	
+18	9	3	FAIL	20250123 042739	999	29/1/113	1	LEAKAGE	
+  Begin_data_overon:
+    18	1	1	PASS	20250123 042942	999	29/1/113	1	PASS	
+  End_data_overon
+19	1	1	PASS	20250123 043247	999	0/0/113	1	PASS	
+20	1	1	PASS	20250123 043550	999	0/0/113	1	PASS	
+21	1	1	PASS	20250123 043828	999	0/0/113	1	PASS	
+22	1	1	PASS	20250123 044139	999	0/0/113	1	PASS	
+23	1	1	PASS	20250123 044440	999	0/0/113	1	PASS	
+24	1	1	PASS	20250123 044931	999	0/0/113	1	PASS	
+25	1	1	PASS	20250123 045340	999	0/0/113	1	PASS	
+26	1	1	PASS	20250123 045805	999	0/0/113	1	PASS	
+27	1	1	PASS	20250123 050241	999	0/0/113	1	PASS	
+28	1	1	PASS	20250123 050651	999	0/0/113	1	PASS	
+29	1	1	PASS	20250123 051107	999	0/0/113	1	PASS	
+30	1	1	PASS	20250123 051439	999	0/0/113	1	PASS	
+31	1	1	PASS	20250123 051733	999	0/0/113	1	PASS	
+32	1	1	PASS	20250123 052054	999	0/0/113	1	PASS	
+33	1	1	PASS	20250123 052451	999	0/0/113	1	PASS	
+34	1	1	PASS	20250123 052803	999	0/0/113	1	PASS	
+35	1	1	PASS	20250123 053106	999	0/0/113	1	PASS	
+36	1	1	PASS	20250123 053416	999	0/0/113	1	PASS	
+37	1	1	PASS	20250123 053720	999	0/0/113	1	PASS	
+38	1	1	PASS	20250123 054021	999	0/0/113	1	PASS	
+39	1	1	PASS	20250123 054358	999	0/0/113	1	PASS	
+40	1	1	PASS	20250123 054651	999	0/0/113	1	PASS	
+41	1	1	PASS	20250123 054955	999	0/0/113	1	PASS	
+42	1	1	PASS	20250123 055253	999	0/0/113	1	PASS	
+43	1	1	PASS	20250123 055632	999	0/0/113	1	PASS	
+44	1	1	PASS	20250123 055957	999	0/0/113	1	PASS	
+
+End_data
+Data_format: SW_Bin  HW_Bin  P_F  Number Prcnt  Site1 Bin_desc
+Begin_data:
+1	1	PASS	42	95.5	95.5	PASS
+9	3	FAIL	2	4.5	4.5	LEAKAGE
+End_data
+Data_format:	Site	Number	Prcnt
+Begin_data:
+		1	44	95.5
+End_data
