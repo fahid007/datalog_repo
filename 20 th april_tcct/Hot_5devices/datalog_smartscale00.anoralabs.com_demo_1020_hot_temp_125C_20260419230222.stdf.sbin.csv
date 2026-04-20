@@ -1,0 +1,5 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"85","RON_DIFF_LOAD_CURRENT_FAILED",1,14.3,1,14.3,1,0
+"69","POST_ILIM_25IMAX_TEST_FAILED",1,42.9,3,42.9,1,0
+"40","FCB_Rise_Fall_Hysteresis_FAILED",1,28.6,2,28.6,1,0
+"2","CONTINUITY_FAILED",1,14.3,1,14.3,1,0
