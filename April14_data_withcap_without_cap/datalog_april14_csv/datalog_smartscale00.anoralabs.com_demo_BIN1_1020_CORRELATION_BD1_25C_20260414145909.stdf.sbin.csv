@@ -1,0 +1,6 @@
+SW Bin,Desc,Device#,Bin%,Good Bin,Reprobe Bin
+"39","EN_Rise_Fall_Hysteresis_FAILED",19,79.2,1,0
+"10","IVDDFL_IVINFL_RONFL_FAILED",1,4.2,1,0
+"2","CONTINUITY_FAILED",2,8.3,1,0
+"69","POST_ILIM_25IMAX_TEST_FAILED",1,4.2,1,0
+"70","Post_ISENSE_Gain_HCU_FAILED",1,4.2,1,0
