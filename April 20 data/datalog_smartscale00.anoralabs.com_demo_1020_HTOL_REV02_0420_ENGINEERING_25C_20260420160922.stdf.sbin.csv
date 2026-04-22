@@ -1,0 +1,11 @@
+SW Bin,Desc,Device#,Bin%,Good Bin,Reprobe Bin
+"69","POST_ILIM_25IMAX_TEST_FAILED",1,1.6,1,0
+"1","",43,67.2,1,0
+"24","SS_Gain_FAILED",2,3.1,1,0
+"45","UVLO_POR_redundancy_FAILED",5,7.8,1,0
+"53","Post_SS_Test_FAILED",4,6.3,1,0
+"46","IO_TEST_FAILED",3,4.7,1,0
+"90","Output_enabled_Leakage_IVDDFL_IVINFL_FAILED",1,1.6,1,0
+"8","Nominal_Input_pin_Leakages_FAILED",3,4.7,1,0
+"10","IVDDFL_IVINFL_RONFL_FAILED",1,1.6,1,0
+"37","Logic_FAILED",1,1.6,1,0

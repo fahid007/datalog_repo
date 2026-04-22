@@ -1,0 +1,4 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"2","CONTINUITY_FAILED",1,27.3,3,27.3,1,0
+"39","EN_Rise_Fall_Hysteresis_FAILED",1,54.5,6,54.5,1,0
+"7","Leakage_Test_FAILED",1,18.2,2,18.2,1,0

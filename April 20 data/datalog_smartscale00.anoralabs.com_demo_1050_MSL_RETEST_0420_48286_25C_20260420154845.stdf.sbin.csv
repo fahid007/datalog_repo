@@ -1,0 +1,5 @@
+SW Bin,Desc,Device#,Bin%,Good Bin,Reprobe Bin
+"1","",10,66.7,1,0
+"18","POST_EFUSE",3,20,1,0
+"13","FAILED_EN_FCB_FAULTB_OFF_FUNCTIONAL",1,6.7,1,0
+"5","LEAKAGE_FAILED",1,6.7,1,0

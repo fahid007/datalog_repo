@@ -1,0 +1,4 @@
+SW Bin,Desc,Device#,Bin%,Good Bin,Reprobe Bin
+"70","Post_ISENSE_Gain_HCU_FAILED",2,20,1,0
+"45","UVLO_POR_redundancy_FAILED",7,70,1,0
+"67","OVST_FAILED",1,10,1,0
