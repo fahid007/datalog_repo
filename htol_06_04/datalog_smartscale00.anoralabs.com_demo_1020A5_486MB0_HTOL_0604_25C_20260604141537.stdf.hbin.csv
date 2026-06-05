@@ -1,0 +1,4 @@
+HW Bin,Desc,Site,Site%,Device#,Bin%
+1,"",1,7.1,2,7.1
+4,"FAIL_TRIM_EFUSE",1,60.7,17,60.7
+6,"FAIL_GROSS_FUNC_TH",1,32.1,9,32.1

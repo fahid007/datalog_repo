@@ -1,0 +1,6 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"53","Post_SS_Test_FAILED",1,31.6,6,31.6,1,0
+"1","",1,42.1,8,42.1,1,0
+"77","UVLO_POR_redundancy_AWG_FAILED",1,15.8,3,15.8,1,0
+"81","Post_Output_disabled_leakage_FAILED",1,5.3,1,5.3,1,0
+"64","Fuse_Burn_Check_FAILED",1,5.3,1,5.3,1,0

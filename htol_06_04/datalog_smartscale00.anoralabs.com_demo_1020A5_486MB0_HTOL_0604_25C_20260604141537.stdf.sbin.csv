@@ -1,0 +1,6 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"1","",1,7.1,2,7.1,1,0
+"53","Post_SS_Test_FAILED",1,39.3,11,39.3,1,0
+"70","Post_ISENSE_Gain_HCU_FAILED",1,14.3,4,14.3,1,0
+"69","POST_ILIM_25IMAX_TEST_FAILED",1,7.1,2,7.1,1,0
+"77","UVLO_POR_redundancy_AWG_FAILED",1,32.1,9,32.1,1,0
