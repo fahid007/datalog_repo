@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+  <smartest force_restart="false">
+    <version>soc64_7.10.6.0</version>
+    <startup_mode>online</startup_mode>
+    <user_mode>engineer</user_mode>
+    <env>
+     <V93000_MODEL>/etc/opt/hp93000/soc/tester.model</V93000_MODEL>
+      <!-- here can specify the env variables for smartest using, for example -->
+      <!-- <LD_LIBRARY_PATH>/path/or/paths/to/3rd_party_libs</LD_LIBRARY_PATH> -->
+    </env>
+  </smartest>
+  <testflow name="/home/demo/projects/Apogeesemi/CROW/Production_Codes/REV03_P02_Char_code/REV03_P02_Char/REV03_P02_Char_Temp/CROW_ARPS10X0X5_TP/testflow/ARPS1020A5_tf_REV03_P02_Cold.mfh" />
+   <equipment testtype="HAND" />
+  <datalog>
+    <profile name="datalog_ON.prf" />
+    <lot_variables>
+      <variable name="LOT_ID" value="12345" />
+      <variable name="OPER_NAM" value="Joe" />
+      <variable name="TST_TEMP" value="25C" />
+      <variable name="TEST_COD" value="FT" />
+      <variable name="DEVICE_VARIENT" value="50" />
+      <variable name="TEMP" value="N55C" />
+       <variable name="BoardID" value="BD1" />
+      
+    </lot_variables>
+    <file perwafer="false" path="/home/demo/projects/Apogeesemi/CROW/TCCT_FILES"
+      name="datalog_{HOSTNAME}_{LOGNAME}_{LOT_ID}_{TEMP}_{TIMESTAMP}_{BoardID}">
+      <stdf enable="true" ext="stdf" />
+      <text enable="true" ext="txt" screen="true" />
+      <summary enable="true" ext="sum" whichtest="All Tests"
+       persite="true" screen="true" />
+      <edl enable="true" ext="edl" name="edlfile" perwafer="false" /> 
+    </file>
+  </datalog>
+  <states>
+    <state name="PROGRAM_LOAD">
+
+    </state>
+  </states>
+</recipe>
