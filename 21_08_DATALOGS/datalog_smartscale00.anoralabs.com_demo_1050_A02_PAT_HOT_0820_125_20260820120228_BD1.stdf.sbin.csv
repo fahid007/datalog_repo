@@ -1,0 +1,4 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"2","CONTINUITY_FAILED",1,16.7,1,16.7,1,0
+"1","",1,66.7,4,66.7,1,0
+"69","POST_ILIM_25IMAX_TEST_FAILED",1,16.7,1,16.7,1,0

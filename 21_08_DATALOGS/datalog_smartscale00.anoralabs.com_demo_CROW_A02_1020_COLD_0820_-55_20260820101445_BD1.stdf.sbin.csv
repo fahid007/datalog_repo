@@ -1,0 +1,4 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"1","",1,60,3,60,1,0
+"58","Post_SS_Gain_Test_FAILED",1,20,1,20,1,0
+"53","Post_SS_Test_FAILED",1,20,1,20,1,0

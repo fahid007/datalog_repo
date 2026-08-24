@@ -1,0 +1,5 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"1","",1,20,1,20,1,0
+"61","TISLOW_FAILED",1,20,1,20,1,0
+"53","Post_SS_Test_FAILED",1,20,1,20,1,0
+"8","Nominal_Input_pin_Leakages_FAILED",1,40,2,40,1,0
